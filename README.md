@@ -20,7 +20,7 @@ First use my mySQL to create a new database, add data, connect the database to t
 
 ### Link to see Bamazon in action!
 
-## Video Link of bAmazon in Action: [bAmazon](https://drive.google.com/file/d/1y0rVMlYVAUET7BPvQmwhm7XFppvl3a5j/view?usp=sharing)
+## Video Link of bAmazon in Action: [bAmazon](https://drive.google.com/file/d/1iT7XKuTd7pM9AO5FnoIFICxCNZnxNWiq/view?usp=sharing)
 
 ### Ending Notes
 

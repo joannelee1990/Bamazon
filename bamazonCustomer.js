@@ -83,11 +83,12 @@ function checkAmounts(value) {
 
             updateSQL(value.id, sqlUpdatedQuantity);
 
-            promptAgain();
+            promptAgain();  
 
         } else {
+            customerPrompt()
             console.log(`"Insufficient quantity!- Current Inventory of : ${res[0].stock_quantity}`);
-            customerPrompt();
+            
         }
     });
 }
